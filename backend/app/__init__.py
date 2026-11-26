@@ -1,0 +1,1 @@
+"""IndicDocAI backend package."""
